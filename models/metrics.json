@@ -1,0 +1,24 @@
+{
+    "accuracy": 0.9775583482944344,
+    "precision": 1.0,
+    "recall": 0.8322147651006712,
+    "f1_score": 0.9084249084249084,
+    "confusion_matrix": [
+        [
+            965,
+            0
+        ],
+        [
+            25,
+            124
+        ]
+    ],
+    "train_samples": 4453,
+    "test_samples": 1114,
+    "total_spam": 747,
+    "total_ham": 4820,
+    "hyperparameters": {
+        "max_features": 5000,
+        "alpha": 1.0
+    }
+}
