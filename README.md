@@ -57,7 +57,7 @@ Make sure you have **Python 3.9+** and `pip` installed.
 ### 1. Clone or Move to Workspace
 Open a terminal in the folder containing these files:
 ```bash
-cd "c:\Users\FATHIMA RIFDA\Desktop\email"
+cd "c:\Users\Hari\Desktop\emailspam\emailspam"
 ```
 
 ### 2. Install Dependencies
